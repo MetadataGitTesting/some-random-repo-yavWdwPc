@@ -58,6 +58,17 @@ pipelines:
       inputs: []
       outputs: []
     dependencies: {}
+  pipelines/W2:
+    name: W2
+    description: Really solid info
+    author: elisha.wolf@hotmail.com
+    mode: batch
+    language: scala
+    createdAt: '2022-04-14 06:15:36'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
   workflows/Mary_Rath_MD:
     name: Mary_Rath_MD
     description: ''
